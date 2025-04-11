@@ -7,3 +7,10 @@ int main ()
   printf("a && b : %d \n",  !a);
   return 0 ;
 }
+
+/*
+---output---
+  a && b : 0 
+  a && b : 1 
+  a && b : 0 
+*/
