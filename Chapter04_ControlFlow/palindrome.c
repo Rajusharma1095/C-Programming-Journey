@@ -19,3 +19,19 @@ int main()
     
     return 0;
   }
+
+
+//output :
+ /*
+Enter the number : 112
+ Not a Palindrome number 
+ */
+
+/*
+
+Enter the number : 212
+ Palindrome number
+ 
+*/
+
+
